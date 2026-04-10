@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 220">
+  <rect width="300" height="220" rx="28" fill="#ecfdf5"/>
+  <path d="M84 146c18-30 46-46 76-42s44 24 54 32" fill="none" stroke="#10b981" stroke-width="12" stroke-linecap="round"/>
+  <path d="M88 144c14-20 28-34 46-30 18 3 32 20 40 26" fill="none" stroke="#047857" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="90" cy="152" r="10" fill="#a7f3d0"/>
+  <circle cx="208" cy="152" r="10" fill="#a7f3d0"/>
+  <rect x="82" y="150" width="134" height="8" rx="4" fill="#6ee7b7"/>
+  <text x="150" y="42" text-anchor="middle" fill="#064e3b" font-size="18" font-family="Arial">Jungle Explorer</text>
+</svg>

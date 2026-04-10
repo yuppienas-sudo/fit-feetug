@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 220">
+  <rect width="300" height="220" rx="28" fill="#faf5ff"/>
+  <path d="M72 154c22-36 56-52 92-46s50 30 62 38" fill="none" stroke="#c084fc" stroke-width="14" stroke-linecap="round"/>
+  <path d="M76 152c18-24 36-42 56-36 22 4 36 22 44 30" fill="none" stroke="#9333ea" stroke-width="10" stroke-linecap="round"/>
+  <ellipse cx="150" cy="166" rx="80" ry="8" fill="#e9d5ff"/>
+  <text x="150" y="42" text-anchor="middle" fill="#6b21a8" font-size="20" font-family="Arial">Lilac Platform</text>
+</svg>

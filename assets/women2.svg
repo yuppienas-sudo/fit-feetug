@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 220">
+  <rect width="300" height="220" rx="28" fill="#fef3c7"/>
+  <path d="M78 145c18-30 55-48 88-42s45 24 56 34" fill="none" stroke="#f59e0b" stroke-width="16" stroke-linecap="round"/>
+  <path d="M82 144c12-18 30-36 50-32 22 4 32 18 40 26" fill="none" stroke="#b45309" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="84" cy="152" r="14" fill="#fde68a"/>
+  <circle cx="222" cy="152" r="14" fill="#fde68a"/>
+  <text x="150" y="42" text-anchor="middle" fill="#92400e" font-size="22" font-family="Arial">Casual Flats</text>
+</svg>

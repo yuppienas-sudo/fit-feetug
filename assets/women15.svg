@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 220">
+  <rect width="300" height="220" rx="28" fill="#fdf4ff"/>
+  <path d="M76 150c18-32 52-48 88-42s46 26 58 34" fill="none" stroke="#e879f9" stroke-width="14" stroke-linecap="round"/>
+  <path d="M80 148c14-20 32-38 52-32 22 4 32 18 40 26" fill="none" stroke="#c026d3" stroke-width="10" stroke-linecap="round"/>
+  <ellipse cx="150" cy="162" rx="80" ry="8" fill="#f5d0fe"/>
+  <text x="150" y="42" text-anchor="middle" fill="#86198f" font-size="20" font-family="Arial">Orchid Sneaker</text>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 220">
+  <rect width="300" height="220" rx="28" fill="#eff6ff"/>
+  <path d="M65 145c24-34 60-50 98-42s52 32 62 40" fill="none" stroke="#2563eb" stroke-width="18" stroke-linecap="round"/>
+  <path d="M70 145c18-22 38-42 58-40 22 2 35 18 46 28" fill="none" stroke="#1d4ed8" stroke-width="14" stroke-linecap="round"/>
+  <circle cx="76" cy="154" r="16" fill="#93c5fd"/>
+  <circle cx="218" cy="154" r="16" fill="#93c5fd"/>
+  <text x="150" y="45" text-anchor="middle" fill="#1e40af" font-size="24" font-family="Arial, Helvetica, sans-serif">Little Boots</text>
+</svg>

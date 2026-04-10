@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 220">
+  <rect width="300" height="220" rx="28" fill="#f5f5f4"/>
+  <path d="M62 162c28-40 66-56 108-48s54 34 66 44" fill="none" stroke="#78716c" stroke-width="18" stroke-linecap="round"/>
+  <path d="M66 160c22-28 42-46 64-42 24 4 42 26 52 34" fill="none" stroke="#44403c" stroke-width="12" stroke-linecap="round"/>
+  <rect x="60" y="160" width="182" height="12" rx="6" fill="#d6d3d1"/>
+  <text x="150" y="42" text-anchor="middle" fill="#292524" font-size="22" font-family="Arial">Desert Boot</text>
+</svg>

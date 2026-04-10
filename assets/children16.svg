@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 220">
+  <rect width="300" height="220" rx="28" fill="#f0fdf4"/>
+  <path d="M74 156c28-40 56-56 86-52s54 34 64 42" fill="none" stroke="#22c55e" stroke-width="12" stroke-linecap="round"/>
+  <path d="M78 154c24-30 38-44 56-40 18 3 42 30 50 36" fill="none" stroke="#15803d" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="80" cy="162" r="10" fill="#bbf7d0"/>
+  <circle cx="218" cy="162" r="10" fill="#bbf7d0"/>
+  <rect x="72" y="160" width="154" height="8" rx="4" fill="#86efac"/>
+  <text x="150" y="42" text-anchor="middle" fill="#14532d" font-size="18" font-family="Arial">Dino Stomper</text>
+</svg>

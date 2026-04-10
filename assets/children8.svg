@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 220">
+  <rect width="300" height="220" rx="28" fill="#fef3c7"/>
+  <path d="M90 140c12-24 40-40 70-36s38 18 48 26" fill="none" stroke="#f59e0b" stroke-width="12" stroke-linecap="round"/>
+  <path d="M94 138c8-14 22-28 40-24 18 3 26 14 34 20" fill="none" stroke="#b45309" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="96" cy="146" r="10" fill="#fde68a"/>
+  <circle cx="202" cy="146" r="10" fill="#fde68a"/>
+  <rect x="88" y="144" width="122" height="8" rx="4" fill="#fcd34d"/>
+  <text x="150" y="42" text-anchor="middle" fill="#92400e" font-size="18" font-family="Arial">Sunny Day Sandal</text>
+</svg>

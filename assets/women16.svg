@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 220">
+  <rect width="300" height="220" rx="28" fill="#f8fafc"/>
+  <path d="M74 152c20-34 54-50 90-44s48 28 60 36" fill="none" stroke="#94a3b8" stroke-width="14" stroke-linecap="round"/>
+  <path d="M78 150c16-22 34-40 54-34 22 4 34 20 42 28" fill="none" stroke="#475569" stroke-width="10" stroke-linecap="round"/>
+  <ellipse cx="150" cy="164" rx="80" ry="8" fill="#e2e8f0"/>
+  <text x="150" y="42" text-anchor="middle" fill="#1e293b" font-size="20" font-family="Arial">Silver Moon Boot</text>
+</svg>

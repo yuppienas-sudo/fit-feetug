@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 220">
+  <rect width="300" height="220" rx="28" fill="#f8fafc"/>
+  <path d="M70 151c20-28 56-44 92-40s45 22 56 31" fill="none" stroke="#334155" stroke-width="18" stroke-linecap="round"/>
+  <path d="M74 149c14-20 34-36 56-32 22 3 36 18 44 24" fill="none" stroke="#1e293b" stroke-width="14" stroke-linecap="round"/>
+  <circle cx="76" cy="157" r="14" fill="#cbd5e1"/>
+  <circle cx="222" cy="157" r="14" fill="#cbd5e1"/>
+  <text x="150" y="45" text-anchor="middle" fill="#0f172a" font-size="24" font-family="Arial, Helvetica, sans-serif">Mini Stride</text>
+</svg>

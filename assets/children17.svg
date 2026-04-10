@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 220">
+  <rect width="300" height="220" rx="28" fill="#f5f3ff"/>
+  <path d="M72 158c30-42 58-58 88-54s56 36 66 44" fill="none" stroke="#6366f1" stroke-width="12" stroke-linecap="round"/>
+  <path d="M76 156c26-32 40-46 58-42 18 3 44 32 52 38" fill="none" stroke="#4338ca" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="78" cy="164" r="10" fill="#c7d2fe"/>
+  <circle cx="220" cy="164" r="10" fill="#c7d2fe"/>
+  <rect x="70" y="162" width="158" height="8" rx="4" fill="#a5b4fc"/>
+  <text x="150" y="42" text-anchor="middle" fill="#3730a3" font-size="18" font-family="Arial">Rocket Blaster</text>
+</svg>

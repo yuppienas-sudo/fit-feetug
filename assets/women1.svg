@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 220">
+  <rect width="300" height="220" rx="28" fill="#fdf2f8"/>
+  <path d="M80 140c15-35 50-55 90-48s50 28 62 38" fill="none" stroke="#ec4899" stroke-width="16" stroke-linecap="round"/>
+  <path d="M85 140c10-20 28-40 48-36 22 5 32 20 42 28" fill="none" stroke="#be185d" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="86" cy="148" r="14" fill="#f9a8d4"/>
+  <circle cx="228" cy="148" r="14" fill="#f9a8d4"/>
+  <text x="150" y="42" text-anchor="middle" fill="#9d174d" font-size="22" font-family="Arial">Elegant Heels</text>
+</svg>

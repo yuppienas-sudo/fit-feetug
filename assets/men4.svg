@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 220">
+  <rect width="300" height="220" rx="28" fill="#f0f9ff"/>
+  <path d="M66 158c24-36 62-52 100-44s50 30 62 40" fill="none" stroke="#0ea5e9" stroke-width="18" stroke-linecap="round"/>
+  <path d="M70 156c18-24 38-42 60-38 24 4 38 22 48 30" fill="none" stroke="#0369a1" stroke-width="12" stroke-linecap="round"/>
+  <rect x="64" y="156" width="174" height="12" rx="6" fill="#bae6fd"/>
+  <text x="150" y="42" text-anchor="middle" fill="#0c4a6e" font-size="22" font-family="Arial">Classic Oxford</text>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 220">
+  <rect width="300" height="220" rx="28" fill="#fef9c3"/>
+  <path d="M64 160c26-38 64-54 104-46s52 32 64 42" fill="none" stroke="#eab308" stroke-width="18" stroke-linecap="round"/>
+  <path d="M68 158c20-26 40-44 62-40 24 4 40 24 50 32" fill="none" stroke="#a16207" stroke-width="12" stroke-linecap="round"/>
+  <rect x="62" y="158" width="178" height="12" rx="6" fill="#fde68a"/>
+  <text x="150" y="42" text-anchor="middle" fill="#713f12" font-size="22" font-family="Arial">Canvas Slip-On</text>
+</svg>
